@@ -18,8 +18,8 @@ config.json
 credentials.py
 
 # --- Project Specifics ---
-*.log
-bot.log
+# *.log
+# bot.log
 
 # --- System Files ---
 .DS_Store

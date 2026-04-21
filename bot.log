@@ -1,0 +1,18 @@
+2026-04-21 17:57:46,474 - INFO - Market BUY Success: BTCUSDT | Qty: 0.002 | OrderID: 13057651905
+2026-04-21 18:06:31,006 - INFO - Market BUY Success: BTCUSDT | Qty: 0.002 | OrderID: 13057674351
+2026-04-21 21:49:09,700 - INFO - ================ NEW SESSION STARTED ================
+2026-04-21 21:49:26,380 - INFO - Market SELL Success: BTCUSDT | Qty: 0.002 | OrderID: 13058243773
+2026-04-21 22:12:47,670 - INFO - ================ NEW SESSION STARTED ================
+2026-04-21 22:12:48,062 - INFO - Market BUY Success: BTCUSDT | Qty: 0.002 | OrderID: 13058298973
+2026-04-21 22:15:46,850 - INFO - ================ NEW SESSION STARTED ================
+2026-04-21 22:15:54,292 - INFO - Market SELL Success: BTCUSDT | Qty: 0.002 | OrderID: 13058307453|Status :NEW | AveragePrice : 0.00
+2026-04-21 22:16:06,373 - INFO - ================ NEW SESSION STARTED ================
+2026-04-21 22:16:06,773 - INFO - Market BUY Success: BTCUSDT | Qty: 0.002 | OrderID: 13058307991 |Status :NEW | AveragePrice : 0.00
+2026-04-21 23:58:35,953 - INFO - ================ NEW SESSION STARTED ================
+2026-04-21 23:58:36,927 - INFO - Market BUY Success: BTCUSDT | Qty: 0.002 | OrderID: 13058578770 |Status :NEW | AveragePrice : 0.00
+2026-04-22 00:38:16,184 - ERROR - Limit Order Failed: APIError(code=-4164): Order's notional must be no smaller than 50 (unless you choose reduce only).
+2026-04-22 00:40:57,256 - INFO - ================ NEW SESSION STARTED ================
+2026-04-22 00:40:57,654 - INFO - Limit BUY Success: BTCUSDT | Price: 60000 | Qty: 0.002 | OrderID: 13058679966|Status :NEW | AveragePrice : 0.00
+2026-04-22 01:00:46,152 - ERROR - Limit Order Failed: APIError(code=-4164): Order's notional must be no smaller than 50 (unless you choose reduce only).
+2026-04-22 01:14:56,785 - INFO - Stop-Limit BUY Success: BTCUSDT | Price: 101000 | Qty: 0.002 | OrderID: Unknown |Status :New | AveragePrice : Null
+
