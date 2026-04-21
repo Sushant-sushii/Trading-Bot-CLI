@@ -1,0 +1,28 @@
+# --- Python Environment ---
+.venv/
+env/
+venv/
+ENV/
+bin/
+lib/
+include/
+
+# --- Python Cache ---
+__pycache__/
+*.py[cod]
+*$py.class
+
+# --- Sensitive Data ---
+.env
+config.json
+credentials.py
+
+# --- Project Specifics ---
+*.log
+bot.log
+
+# --- System Files ---
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
